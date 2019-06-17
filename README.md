@@ -1,10 +1,6 @@
 # EmuMmcConfig
 
-# Custom Bootlogo
-![alt text](https://i.imgur.com/z4bH7Rl.jpg)
 ![alt text](https://i.imgur.com/4BEIW5N.jpg)
-
-# Application
 
 This is a Homebrew app to Control Atmospher's 0.9.0 EmuMMC > Emunand.
 
@@ -21,6 +17,9 @@ This is a Homebrew app to Control Atmospher's 0.9.0 EmuMMC > Emunand.
 
 # Note
 Hekate included and set to Autoboot with 5 sec dillay including my own EmuMMC Bootlogo both hekate and atmosphere logos active :)
+
+# Custom Bootlogo
+![alt text](https://i.imgur.com/z4bH7Rl.jpg)
 
 ENJOY FOLKS !!!
 
