@@ -1,5 +1,11 @@
 # EmuMmcConfig
 
+# Custom Bootlogo
+![alt text](https://i.imgur.com/z4bH7Rl.jpg)
+![alt text](https://i.imgur.com/4BEIW5N.jpg)
+
+# Application
+
 This is a Homebrew app to Control Atmospher's 0.9.0 EmuMMC > Emunand.
 
 # instructions:
@@ -14,7 +20,7 @@ This is a Homebrew app to Control Atmospher's 0.9.0 EmuMMC > Emunand.
 2.Reboot to Payload atmosphere/reboot_payload "included hekate_ctcaer_4.10.1.bin"
 
 # Note
-Hekate included and set to Autoboot with 5 sec dillay including my own EmuMMC Bootlogo
+Hekate included and set to Autoboot with 5 sec dillay including my own EmuMMC Bootlogo both hekate and atmosphere logos active :)
 
 ENJOY FOLKS !!!
 
