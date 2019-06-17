@@ -28,6 +28,9 @@ Hekate included and set to Autoboot with 5 sec dillay including my own EmuMMC Bo
 # Custom Bootlogo
 ![alt text](https://i.imgur.com/z4bH7Rl.jpg)
 
+# Video in action
+https://youtu.be/j9F6IzH-2Iw
+
 ENJOY FOLKS !!!
 
 # Credits:
