@@ -13,7 +13,8 @@ This is a Homebrew app to Control Atmospher's 0.9.0 EmuMMC > Emunand.
 
 # Features:
 1.Control EmuMMC INI
-2.Reboot to Payload atmosphere/reboot_payload "included hekate_ctcaer_4.10.1.bin"
+2.Comes with preconfigured EmuMMC INI
+3.Reboot to Payload atmosphere/reboot_payload "included hekate_ctcaer_4.10.1.bin"
 
 # Note
 Hekate included and set to Autoboot with 5 sec dillay including my own EmuMMC Bootlogo both hekate and atmosphere logos active :)
