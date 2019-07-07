@@ -24,8 +24,7 @@ void TextPage::Update()
 CreditsPage::CreditsPage() : 
 showHelp(""),
 creditsText("EmuMmcConfig by KranK/KuranKu\n" + VersionString + "\n\n",WHITE, 900, font30),
-creditsText2("Testers:\n FennecTECH \n KevinG "
-,WHITE, 900, font25)
+creditsText2("Testers:\n FennecTECH \n KevinG \n::Phoenix::\n\nCredits:\n Xortroll - Plutonium teached me alot! \n Exelix11 - Thanks for the GUI :) \n AtlasNX Kosmos Team - for being my palace",WHITE, 900, font25)
 {
 	Name = "Credits";
 	showHelp.selected = false;
