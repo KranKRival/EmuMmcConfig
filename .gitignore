@@ -10,9 +10,9 @@ atmosphere
 bootloader*
 bootloader/
 bootloader
-.vscode*
-.vscode/
-.vscode
+.rar*
+.rar/
+.rar
 EmuMmcConfig.elf*
 EmuMmcConfig.elf/
 EmuMmcConfig.elf
