@@ -26,9 +26,12 @@ class SettingsPage : public IPage
 		Label idlabel;
 		Label Pathlabel;
 		Label Warninglabel;
+		Label Warninglabel2;
+		Label Warninglabel3;
+		Label Warninglabel4;
 		Label EmuMmclabel;
 		Label Sectorlabel;
-		Button btnClear;
+		Button btnEmummcToogle;
 		
 		int selectedIndex = 0;
 		

@@ -35,16 +35,18 @@ void SdlExit()
 	SDL_Quit();
 }
 
-#define LoadFont(num) TTF_OpenFont("romfs:/CYBERTOOTH.ttf", num);
+#define LoadFont(num) TTF_OpenFont("romfs:/Glametrix.ttf", num);
 TTF_Font *font20;
 TTF_Font *font25;
 TTF_Font *font30;
+TTF_Font *font35;
 TTF_Font *font40;
 void FontInit()
 {
 	font20 = LoadFont(20);
 	font25 = LoadFont(25);
 	font30 = LoadFont(30);
+	font35 = LoadFont(35);
 	font40 = LoadFont(40);
 }
 
@@ -53,6 +55,7 @@ void FontExit()
 	TTF_CloseFont(font20);
 	TTF_CloseFont(font25);
 	TTF_CloseFont(font30);
+	TTF_CloseFont(font35);
 	TTF_CloseFont(font40);
 }
 #undef LoadFont

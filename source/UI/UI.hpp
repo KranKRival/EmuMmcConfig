@@ -24,6 +24,7 @@ void SdlExit();
 extern TTF_Font *font20;
 extern TTF_Font *font25;
 extern TTF_Font *font30;
+extern TTF_Font *font35;
 extern TTF_Font *font40;
 
 void FontInit();
