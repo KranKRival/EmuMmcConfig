@@ -38,7 +38,7 @@ APP_TITLE := EmuMmcConfig
 APP_AUTHOR := KranK/KuranKu
 APP_VERSION := ${VERSION_MAJOR}.${VERSION_MINOR}.${VERSION_MICRO}
 
-ICON := Icon.jpg
+ICON := icon.jpg
 TARGET		:=	$(notdir $(CURDIR))
 BUILD		:=	build
 SOURCES		:=	source/SwitchTools source/SwitchTools/lockpick source/UI source/Pages source/SwitchThemesCommon/SarcLib source/SwitchThemesCommon/Layouts source/SwitchThemesCommon/Bntx  source/SwitchThemesCommon/BinaryReadWrite source/SwitchThemesCommon/Fonts source/SwitchThemesCommon source
