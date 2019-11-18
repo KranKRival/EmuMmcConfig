@@ -1,12 +1,12 @@
 # EmuMmcConfig
 
-![alt text](https://i.imgur.com/Mui7D5f.jpg)
+![Image of config screen](https://i.imgur.com/Mui7D5f.jpg)
 
 ```
 This is a Homebrew app to Control Atmospher's EmuMMC from the Horizon OS.
 ```
 
-# instructions:
+# Instructions:
 ```
 1.You must setup EmuMMC as "Partition" ^^ ,no files support in the tool for now
 2.extract the contents of the release to root of the SD Card
