@@ -205,7 +205,7 @@ std::string GetNcaPath(u64 tid)
 		ErrorFatal((string)"lrInitialize : " + to_string(rc));
 	
 	LrLocationResolver res;
-	rc = lrOpenLocationResolver(3 ,&res); // FsStorageId_NandSystem=3
+	rc = lrOpenLocationResolver(NcmStorageId_BuiltInSystem ,&res);
 	if (R_FAILED(rc))
 		ErrorFatal((string)"lrOpenLocationResolver :" + to_string(rc));
 	
