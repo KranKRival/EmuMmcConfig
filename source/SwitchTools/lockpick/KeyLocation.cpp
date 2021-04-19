@@ -31,7 +31,7 @@ void KeyLocation::get_from_memory(u64 tid, u8 seg_mask) {
     // if not a kernel process, get pid from pm:dmnt
     if ((tid > 0x0100000000000005) && (tid != 0x0100000000000028)) {
         u64 pid;
-        pmdmntGetTitlePid(&pid, tid);
+        pmdmntGetProcessId(&pid, tid);
 
         if (R_FAILED(svcDebugActiveProcess(&debug_handle, pid)) ||
             R_FAILED(svcGetDebugEvent(reinterpret_cast<u8 *>(&d), debug_handle)))
